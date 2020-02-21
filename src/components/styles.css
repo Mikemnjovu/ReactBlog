@@ -1,0 +1,34 @@
+.composer input{
+	margin:0.4rem;
+	text-align:center;
+	font-size:15pt;
+}
+.text-title, .text-article {
+	border: 2px solid #5555;
+	/*padding:1.2rem;*/
+	border-radius:5px;
+	
+	
+}
+.text-article{
+	/*width:80%;*/
+}
+
+.btn {
+	border-radius:100px;
+	padding:1rem;
+	background-color:gray;
+	color:#fff;
+}
+.composer {
+	background-color:#7E7578
+
+}
+.latest-articles {
+	text-align:left;
+	font:italic;
+}
+.article-title {
+	font:italic;
+	margin:none;
+}
